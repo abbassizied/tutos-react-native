@@ -7,6 +7,7 @@
 
 ```sh
 # Create a project named my-app
+$ npx create-expo-app my-first-app --template blank
 $ npx create-expo-app my-app --template bare-minimum
 
 # Start your project by running:
