@@ -9,9 +9,9 @@
 
 ### Screenshots
 
-![My Image](../_screenshots/miniProject-UserProfileNavigator_1.jpeg "Image Title")
-![My Image](../_screenshots/miniProject-UserProfileNavigator_1.jpeg "Image Title")
-![My Image](../_screenshots/miniProject-UserProfileNavigator_1.jpeg "Image Title")
+<img src="../_screenshots/miniProject-UserProfileNavigator_1.jpeg" alt="My Image" width="200" height="150" />
+<img src="../_screenshots/miniProject-UserProfileNavigator_2.jpeg" alt="My Image" width="200" height="150" />
+<img src="../_screenshots/miniProject-UserProfileNavigator_3.jpeg" alt="My Image" width="200" height="150" /> 
 
 ### 🧾 File Structure:
 
